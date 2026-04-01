@@ -1,6 +1,6 @@
-## <div align="left">👋 Hi, I'm Taofeek, a Frontend Engineer, Tech Innovator, Coding with Kids</div>
+## <div align="left">👋 Hi, I'm Taofeek, a Software Engineer, Tech Innovator & Coding & Robotics Specialist</div>
 
-- 🔭 I’m currently working with JavaScript, React.js, Vue.js, TailwindCSS, HTML5, CSS3, Figma, Adobe Illustrator
+- 🔭 I’m currently working with JavaScript, React.js, PHP, Laravel, NodeJS, TailwindCSS, HTML5, CSS3, Figma
 - 💬 Ask me about anything on Software Development
 - 📫 How to reach me tambaliyu@gmail.com
   
